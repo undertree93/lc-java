@@ -6,17 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Webjeda Thunder
+title: lc java 
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Thunder is a lightning fast responsive theme based on default Jekyll theme. It is minimal and free from JavaScript. It has a css file of size 5kb. 
-url: "http://webjeda.com" # the base hostname & protocol for your site
+#url: "http://webjeda.com" # the base hostname & protocol for your site
 
-baseurl: '/thunder'
+baseurl: '/lc-java'
 permalink: /:title/
 
 analytics: UA-83979019-1
-disqus-shortname: webjeda-demo
+disqus-shortname: lc-java
 
 # Color schemes
 color-1: '#3B97D3'
@@ -24,8 +24,8 @@ color-2: '#26B99A'
 
 # Author pictre 100x100 --> keep it inside img folder.
 author-image: 'author.jpg'
-author-name: 'John Doe' 
-author-about: 'John Doe should be described in a very few words!' 
+author-name: 'LC' 
+author-about: 'LC should be described in a very few words!' 
 
 # Build settings
 markdown: kramdown
@@ -50,7 +50,7 @@ compress_html:
   
 prose:
   rooturl: ''
-  siteurl: 'http://prose.github.io/starter/'
+  siteurl: 'http://undertree93.github.io/lc-java/'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'images'
   ignore:
