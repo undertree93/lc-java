@@ -5,9 +5,8 @@ permalink: /about/
 ---
 
 
-Thunder is a minimal responsive Jekyll theme which uses very less ``html`` and ``css`` code. The page-load is within a second. This Jekyll Theme is suitable for simple blogs.
+LC-JAVA is a blog for tracking my experience with JAVA.
 
+I am using a jekyll theme called thunder to render this blog site. 
 
-More themes available here: [**Jekyll Themes**](http://blog.webjeda.com/jekyll-themes/)
-
-
+https://blog.webjeda.com/jekyll-themes/thunder/
